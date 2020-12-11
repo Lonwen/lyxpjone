@@ -1,0 +1,6 @@
+framework module Pods_lyxpjone {
+  umbrella header "Pods-lyxpjone-umbrella.h"
+
+  export *
+  module * { export * }
+}

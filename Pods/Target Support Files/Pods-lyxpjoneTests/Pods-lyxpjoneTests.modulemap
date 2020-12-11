@@ -1,0 +1,6 @@
+framework module Pods_lyxpjoneTests {
+  umbrella header "Pods-lyxpjoneTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
